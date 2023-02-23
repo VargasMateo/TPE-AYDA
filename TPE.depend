@@ -1,0 +1,173 @@
+# depslib dependency file v1.0
+1654090556 source:c:\users\cachen\desktop\ayda\tpe\main.cpp
+	<iostream>
+	"LISTA.h"
+	"ARBOL.h"
+
+1654090556 source:c:\users\cachen\desktop\ayda\tpe\src\lista.cpp
+	"../include/LISTA.h"
+	<string>
+
+1654090556 c:\users\cachen\desktop\ayda\tpe\include\lista.h
+	<iostream>
+
+1654096777 source:c:\users\sebastian\desktop\tpe ayda\tpe\main.cpp
+	<iostream>
+	"LISTA.h"
+	"ARBOL.h"
+	"FILA.h"
+
+1654096506 c:\users\sebastian\desktop\tpe ayda\tpe\include\lista.h
+	<iostream>
+
+1654097038 source:c:\users\sebastian\desktop\tpe ayda\tpe\src\lista.cpp
+	"LISTA.h"
+	<string>
+
+1654090225 source:c:\users\sebastian\desktop\tpe ayda\tpe\src\arbol.cpp
+	"ARBOL.h"
+
+1654089843 c:\users\sebastian\desktop\tpe ayda\tpe\include\arbol.h
+	<iostream>
+	"LISTA.h"
+
+1654042500 source:c:\users\matib\onedrive\escritorio\tp cachen-buga\main.cpp
+	<iostream>
+	"LISTA.h"
+	"ARBOL.h"
+
+1654051808 c:\users\matib\onedrive\escritorio\tp cachen-buga\include\lista.h
+	<iostream>
+
+1654051808 c:\users\matib\onedrive\escritorio\tp cachen-buga\include\arbol.h
+	<iostream>
+	"LISTA.h"
+
+1654032948 source:c:\users\matib\onedrive\escritorio\tp cachen-buga\src\lista.cpp
+	"../include/LISTA.h"
+	<string>
+
+1654089843 c:\users\cachen\desktop\ayda\tpe\include\arbol.h
+	<iostream>
+	"LISTA.h"
+
+1654090225 source:c:\users\cachen\desktop\ayda\tpe\src\arbol.cpp
+	"ARBOL.h"
+
+1654090585 source:c:\users\cachen\desktop\ayda\tpe\src\fila.cpp
+	"FILA.h"
+
+1654090705 c:\users\cachen\desktop\ayda\tpe\include\fila.h
+
+1654094099 c:\users\sebastian\desktop\tpe ayda\tpe\include\fila.h
+	<iostream>
+
+1654095317 source:c:\users\sebastian\desktop\tpe ayda\tpe\src\fila.cpp
+	"FILA.h"
+
+1656436430 source:c:\users\cachen\desktop\ayda\tpe vargas y bugarini\main.cpp
+	<iostream>
+	"LISTA.h"
+	"ARBOL.h"
+	"FILA.h"
+	"CLIENTE.h"
+	"servicio_1.h"
+	"servicio_2.h"
+	"servicio_3.h"
+	"servicio_4.h"
+	"servicio_5.h"
+
+1656516140 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\lista.h
+	<iostream>
+	"CLIENTE.h"
+
+1655609099 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\arbol.h
+	<iostream>
+	"LISTA.h"
+	"CLIENTE.h"
+
+1656461731 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\fila.h
+	<iostream>
+
+1655609152 source:c:\users\cachen\desktop\ayda\tpe vargas y bugarini\src\arbol.cpp
+	"ARBOL.h"
+
+1656516091 source:c:\users\cachen\desktop\ayda\tpe vargas y bugarini\src\fila.cpp
+	"FILA.h"
+	"CLIENTE.h"
+
+1656354307 source:c:\users\cachen\desktop\ayda\tpe vargas y bugarini\src\lista.cpp
+	"LISTA.h"
+	<string>
+
+1656343348 source:c:\users\cachen\desktop\ayda\tpe vargas y bugarini\src\cliente.cpp
+	"CLIENTE.h"
+
+1656288531 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\cliente.h
+	<iostream>
+
+1654526611 source:c:\users\cachen\desktop\ayda\tpe vargas y bugarini\src\fila_clientes.cpp
+	"FILA_CLIENTES.h"
+
+1654526122 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\fila_clientes.h
+	"CLIENTE.h"
+
+1656343394 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\servicio_1.h
+
+1656461975 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\servicio_3.h
+
+1655321925 source:c:\users\sebastian\downloads\main.cpp
+	<iostream>
+	"LISTA.h"
+	"ARBOL.h"
+	"FILA.h"
+	"CLIENTE.h"
+	"servicio_1.h"
+	"servicio_3.h"
+
+1654639744 c:\users\sebastian\downloads\include\lista.h
+	<iostream>
+
+1654525047 c:\users\sebastian\downloads\include\arbol.h
+	<iostream>
+	"LISTA.h"
+	"CLIENTE.h"
+
+1655318150 c:\users\sebastian\downloads\include\cliente.h
+	<iostream>
+
+1655319569 c:\users\sebastian\downloads\include\fila.h
+	<iostream>
+
+1654526122 c:\users\sebastian\downloads\include\fila_clientes.h
+	"CLIENTE.h"
+
+1655321699 c:\users\sebastian\downloads\include\servicio_1.h
+
+1655322241 c:\users\sebastian\downloads\include\servicio_3.h
+
+1654526218 source:c:\users\sebastian\downloads\src\arbol.cpp
+	"ARBOL.h"
+
+1655319842 source:c:\users\sebastian\downloads\src\cliente.cpp
+	"CLIENTE.h"
+
+1655319958 source:c:\users\sebastian\downloads\src\fila.cpp
+	"FILA.h"
+	"CLIENTE.h"
+
+1654526611 source:c:\users\sebastian\downloads\src\fila_clientes.cpp
+	"FILA_CLIENTES.h"
+
+1654639740 source:c:\users\sebastian\downloads\src\lista.cpp
+	"LISTA.h"
+	<string>
+
+1656436329 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\servicio_2.h
+	"servicio_3.h"
+
+1656429326 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\servicio_5.h
+
+1656436668 c:\users\cachen\desktop\ayda\tpe vargas y bugarini\include\servicio_4.h
+	"servicio_3.h"
+
